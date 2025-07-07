@@ -4,7 +4,7 @@ Disallow: /assets/tailwind.js
 Disallow: /main.js
 
 
-Sitemap: https://wangzigan.com/sitemap.xml
+Sitemap: https://rootdirectorylab.com/sitemap.xml
 
 User-agent: Googlebot
 Allow: /
